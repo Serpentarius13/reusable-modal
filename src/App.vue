@@ -3,9 +3,6 @@
 </template>
 
 <script setup lang="ts">
-// Import our inner modal component
-
-
 // Import store
 import useModalStore from "./stores/useModalStore";
 
